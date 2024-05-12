@@ -44,4 +44,5 @@ public class Course {
 	private int creditpoints;
 	
 	//TODO uztaisit konst, pec saistes pievienoshanu ar profesoru
+	//tests
 }
