@@ -59,6 +59,8 @@ public class ProgInzSeminars2Application {
                     gradeRepo.save(new Grade(10, c3, s3));//Baiba nopelnīja 10 ProgInz
                     
                     
+                    
+                    
             }
     };
     
